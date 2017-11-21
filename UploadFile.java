@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class UploadFile {
-
+// version 2.0
 	public static void main(String[] args) {
 		
 		
